@@ -277,3 +277,6 @@ function removeLastLine(){
     }
 }
 
+window.addEventListener("load",start,false);
+
+
